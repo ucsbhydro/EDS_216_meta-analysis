@@ -26,7 +26,7 @@ Scott Jasechko (jasechko at ucsb dot edu)
 [Course syllabus](ssw) (you are expected to review and understand this syllabus prior to the first day of class)
 
 ## Course description
-Synthesis tools in environmental science are rapidly evolving and becoming standard, formalized tools for review and assessment. Synthesis can include data aggregation, narrative reviews, systematic reviews, and meta-analysis. Meta-analyses in particular are often viewed as the gold-standard methodology to quantitatively estimate the state-of-the-art of a research domain. The analytics and assumptions have changed significantly within the last 5 years. Key topics covered in this course include effect sizes, scope of inference, and statistical analyses using weighted measures."
+Synthesis tools in environmental science are rapidly evolving and becoming standard, formalized tools for review and assessment. Synthesis can include data aggregation, narrative reviews, systematic reviews, and meta-analysis. Meta-analyses in particular are often viewed as the gold-standard methodology to quantitatively estimate the state-of-the-art of a research domain. The analytics and assumptions have changed significantly within the last 5 years. Key topics covered in this course include effect sizes, scope of inference, and statistical analyses using weighted measures.
 
 ## Tentative schedule
 | Day  | Lecture | Interactive session | Flex sessions |
