@@ -32,15 +32,26 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 | Day  | Lecture | Interactive session | Flex sessions |
 |------|----------------|------------|------------|
 | 1 (morning)    | Introduction to meta-analyses and systematic reviews: definitions, best practices | Literature search techniques | Citation management
-| 1 (afternoon)    | Topics         | Topics     | -- |
-| 3    | Topics         | Topics     | -- |
-| 4    | Topics         | Topics     | -- |
-| 5    | Topics         | Topics     | -- |
-| 6    | Topics         | Topics     | -- |
-| 7    | Topics         | Topics     | -- |
-| 8    | Topics         | Topics     | -- |
-| 9    | Topics         | Topics     | -- |
-| 10   | Topics         | Topics     | -- |
+| 1 (afternoon)  | tba         | tba     | -- |
+| 2 (morning)    | tba         | tba     | -- |
+| 2 (afternoon)  | tba         | tba     | -- |
+| 3 (morning)    | tba         | tba     | No flex sessions (late start) |
+| 3 (afternoon)  | tba         | tba     | No flex sessions (late start) |
+| 4 (morning)    | tba         | tba     | -- |
+| 4 (afternoon)  | tba         | tba     | -- |
+
+## Tentative daily schedule
+| Time  | Activity |
+|------|----------------|
+| 8:00-9:00   | Lecture 1 of 2 |
+| 9:00-9:15  | Breaktime         | tba     | -- |
+| 9:15-10:15    | Interactive Session 1 of 3   | tba     | -- |
+| 10:15-11:00  | Flex time       | tba     | -- |
+| 11:00-12:15    | Breaktime     | tba     | No flex sessions (late start) |
+| 12:15-1:15  | Lecture 2 of 2        | tba     | No flex sessions (late start) |
+| 1:15-2:15    | Interactive Session 2 of 3       | tba     | -- |
+| 2:15-3:15  | Flex time         | tba     | -- |
+| 3:15-5:00  | Interactive Session 3 of 3         | tba     | -- |
 
 ## Thank you
 This webpage was designed following a template put together by Allison Horst.
