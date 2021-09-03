@@ -23,25 +23,74 @@ Scott Jasechko (jasechko at ucsb dot edu)
 
 [Code of conduct](https://allisonhorst.github.io/EDS_212_essential-math/code_of_conduct.html) (links to A. Horst's Github)
 
-[Course syllabus](ssw) (you are expected to review and understand this syllabus prior to the first day of class)
-
 ## Course description
 Synthesis tools in environmental science are rapidly evolving and becoming standard, formalized tools for review and assessment. Synthesis can include data aggregation, narrative reviews, systematic reviews, and meta-analysis. Meta-analyses in particular are often viewed as the gold-standard methodology to quantitatively estimate the state-of-the-art of a research domain. The analytics and assumptions have changed significantly within the last 5 years. Key topics covered in this course include effect sizes, scope of inference, and statistical analyses using weighted measures.
 
 ## Day 1
 | Time  | Activity |
 |------|----------------|
-| 9:00-10:00   | Lecture. Introduction to meta-analyses and systematic reviews: definitions, best practices, and why do one? |
-| 10:10-11:00   | Review a (systematic) review, and presentations |
-| 11:10-12:00  | Interactive. PICO/PECO, literature search techniques; derive potential PICO questions for your project |
+| 9:00-10:00 | Lecture. Introduction to meta-analyses and systematic reviews: definitions, best practices, and why do one? |
+| 10:00-10:10 | Break |
+| 10:10-11:00 | Assignment. Review a (systematic) review, and presentations |
+| 11:00-11:10 | Break |
+| 11:10-12:00 | Interactive. PICO/PECO, literature search techniques; derive potential PICO questions for your project |
+| 12:00-1:15 | Break |
 | 1:15-2:15 | Flex. Citation management with Zotero (UCSB Librarian) |
+| 2:15-2:25 | Break |
 | 2:25-3:15 | Flex. Citation management with Zotero (UCSB Librarian; continued) |
-| 3:25-5:00  | Project. Identifying a benchmark publication; PICO/PECO question; search terms (with Boolean operators); topic background |
+| 3:15-3:25 | Break |
+| 3:25-5:00 | Project. Identifying a benchmark publication; PICO/PECO question; search terms (with Boolean operators); topic background |
+
+## Day 2
+| Time  | Activity |
+|------|----------------|
+| 9:00-10:00 | Lecture. Overview of protocols for systematic reviews |
+| 10:00-10:10 | Break |
+| 10:10-11:00 | Project. Completing a search, testing for comprehensiveness (benchmark publication), assembled literature database, flowchart |
+| 11:00-11:10 | Break |
+| 11:10-12:00 | Project. Completing a search, testing for comprehensiveness (benchmark publication), assembled literature database, flowchart (continued) |
+| 12:00-1:15 | Break |
+| 1:15-2:15 | Flex. NCEAS scientists panel |
+| 2:15-2:25 | Break |
+| 2:25-3:15 | Lecture. Screening articles for inclusion/exclusion | Biases in literature |
+| 3:15-3:25 | Break |
+| 3:25-5:00 | Assignment. SysRev Exercise |
+
+
+## Day 3
+| Time  | Activity |
+|------|----------------|
+| 9:00-10:00 | Break (late start today) |
+| 10:00-10:10 | Break |
+| 10:10-11:00 | Lecture. Data extraction, critical appraisal, effect sizes, meta-analyses and meta-regressions |
+| 11:00-11:10 | Break |
+| 11:10-12:00 | Assignment. Forest plots, weighting, explanatory variables |
+| 12:00-1:15 | Break |
+| 1:15-2:15 | Lecture. Data coding and extraction |
+| 2:15-2:25 | Break |
+| 2:25-3:15 | Project. Data coding and extraction strategy |
+| 3:15-3:25 | Break |
+| 3:25-5:00 | Flex. Prepare final presentations |
+
+## Day 4
+| Time  | Activity |
+|------|----------------|
+| 9:00-10:00 | Project. Final presentations |
+| 10:00-10:10 | Break |
+| 10:10-11:00 | Project. Final presentations |
+| 11:00-11:10 | Break |
+| 11:10-12:00 | Project. Final presentations |
+| 12:00-1:15 | Break |
+| 1:15-2:15 | Flex. LaTeX formatting |
+| 2:15-2:25 | Break |
+| 2:25-3:15 | Project. Finalize written systematic review protocol |
+| 3:15-3:25 | Break |
+| 3:25-5:00 | Project. Finalize written systematic review protocol |
 
 
 
 ## Thank you
-This webpage was designed following a template put together by Dr. Allison Horst (and please see Dr. Horst's 'About this website section here https://allisonhorst.github.io/EDS_212_essential-math/ for further acknowledgements) 
+This webpage was designed following a template put together by Dr. Allison Horst (and please see the 'About this website' section on Dr. Horst's webpage here https://allisonhorst.github.io/EDS_212_essential-math/ for further acknowledgements) 
 
 
 ```{r, out.width = "100%", fig.cap = ""}
