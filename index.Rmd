@@ -62,9 +62,9 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 |------|----------------|
 | 9:00-10:00 | Break (late start today) |
 | 10:00-10:10 | Break |
-| 10:10-11:00 | Lecture. Data extraction, critical appraisal, effect sizes, meta-analyses and meta-regressions |
+| 10:10-11:00 | Lecture. Data extraction, critical appraisal, meta-analyses, effect sizes |
 | 11:00-11:10 | Break |
-| 11:10-12:00 | Assignment. Forest plots, weighting, explanatory variables |
+| 11:10-12:00 | Assignment. Standardized mean differences, weighting effect sizes, forest plots |
 | 12:00-1:15 | Break |
 | 1:15-2:15 | Lecture. Data coding and extraction |
 | 2:15-2:25 | Break |
