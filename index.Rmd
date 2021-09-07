@@ -29,30 +29,30 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 ## Day 1
 | Time  | Activity |
 |------|----------------|
-| 9:00-10:00 | Lecture. Introduction to meta-analyses and systematic reviews: definitions, best practices, why do one |
+| 9:00-10:00 | [Lecture. Introduction to meta-analyses and systematic reviews: definitions, best practices, why do one](https://app.box.com/s/qoj5lrnd8hfj9otit0bz8y6t1092636f) |
 | 10:00-10:10 | Break |
-| 10:10-11:00 | Assignment. Review and present a systematic review |
+| 10:10-11:00 | [Assignment. Review and present a systematic review](https://app.box.com/s/60fmk7czr3ljzsgc6l8c5n5ba3eug544) |
 | 11:00-11:10 | Break |
-| 11:10-12:00 | Interactive. PICO/PECO, literature search techniques; derive potential PICO questions for your project |
+| 11:10-12:00 | [Interactive. PICO/PECO, literature search techniques; derive potential PICO questions for your project](https://app.box.com/s/rfkc33od9248r4f5yrhuflj1sagc7ol8) |
 | 12:00-1:15 | Break |
-| 1:15-2:15 | Flex. Citation management with Zotero (UCSB Librarian) |
+| 1:15-2:15 | [Flex. Citation management with Zotero (UCSB Librarian)](https://app.box.com/s/cdkplzh287ih1qdhzv1kwut7ijjlhw6o) |
 | 2:15-2:25 | Break |
-| 2:25-3:15 | Flex. Citation management with Zotero (UCSB Librarian; continued) |
+| 2:25-3:15 | [Flex. Citation management with Zotero (UCSB Librarian; continued)](https://app.box.com/s/iou2ruacc6l2uyl97hc9nvnwu5mdy3to) |
 | 3:15-3:25 | Break |
-| 3:25-5:00 | Project. Primary research question; identifying a benchmark publication; PICO/PECO components and synonyms; topic background |
+| 3:25-5:00 | [Project. Primary research question; identifying a benchmark publication; PICO/PECO components and synonyms; topic background](https://app.box.com/s/su0vtxjf3g222p2r8nakwxa7kcwoqa7m) |
 
 ## Day 2
 | Time  | Activity |
 |------|----------------|
 | 9:00-10:00 | Lecture. Overview of protocols for systematic reviews |
 | 10:00-10:10 | Break |
-| 10:10-11:00 | Project. Completing a search, testing for comprehensiveness (benchmark publication), assembled literature database, flowchart |
+| 10:10-11:00 | Project. Completing search string (with Boolean operators), testing for comprehensiveness (benchmark publication), assembled literature database, screening articles for inclusion/exclusion |
 | 11:00-11:10 | Break |
-| 11:10-12:00 | Project. Completing a search, testing for comprehensiveness (benchmark publication), assembled literature database, flowchart (continued) |
+| 11:10-12:00 | Project. Completing search string (with Boolean operators), testing for comprehensiveness (benchmark publication), assembled literature database, screening articles for inclusion/exclusion (continued); Flex. Extracting data (e.g., webplot digitizer) |
 | 12:00-1:15 | Break |
 | 1:15-2:15 | Flex. NCEAS scientists panel |
 | 2:15-2:25 | Break |
-| 2:25-3:15 | Lecture. Screening articles for inclusion/exclusion | Biases in literature |
+| 2:25-3:15 | Lecture. Biases in literature, PRISMA; Assignment. SysRev Exercise |
 | 3:15-3:25 | Break |
 | 3:25-5:00 | Assignment. SysRev Exercise |
 
@@ -64,11 +64,11 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 | 10:00-10:10 | Break |
 | 10:10-11:00 | Lecture. Data extraction, critical appraisal, meta-analyses, effect sizes |
 | 11:00-11:10 | Break |
-| 11:10-12:00 | Assignment. Standardized mean differences, weighting effect sizes, forest plots |
+| 11:10-12:00 | Assignment. Standardized mean differences (Cohen’s d, Hedge’s h), weighting effect sizes, uncertainty propagation, forest plots, funnel plots |
 | 12:00-1:15 | Break |
-| 1:15-2:15 | Lecture. Data coding and extraction |
+| 1:15-2:15 | Lecture. Data coding and extraction, critical appraisal, meta-regressions |
 | 2:15-2:25 | Break |
-| 2:25-3:15 | Project. Data coding and extraction strategy |
+| 2:25-3:15 | Project. Data coding and extraction, PRISMA; Flex. Prepare final presentations |
 | 3:15-3:25 | Break |
 | 3:25-5:00 | Flex. Prepare final presentations |
 
@@ -79,7 +79,7 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 | 10:00-10:10 | Break |
 | 10:10-11:00 | Project. Final presentations |
 | 11:00-11:10 | Break |
-| 11:10-12:00 | Project. Final presentations |
+| 11:10-12:00 | Project. Final presentations; Flex. LaTeX formatting |
 | 12:00-1:15 | Break |
 | 1:15-2:15 | Flex. LaTeX formatting |
 | 2:15-2:25 | Break |
