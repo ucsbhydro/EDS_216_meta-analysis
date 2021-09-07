@@ -29,9 +29,9 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 ## Day 1
 | Time  | Activity |
 |------|----------------|
-| 9:00-10:00 | Lecture. Introduction to meta-analyses and systematic reviews: definitions, best practices, and why do one? |
+| 9:00-10:00 | Lecture. Introduction to meta-analyses and systematic reviews: definitions, best practices, why do one |
 | 10:00-10:10 | Break |
-| 10:10-11:00 | Assignment. Review a (systematic) review, and presentations |
+| 10:10-11:00 | Assignment. Review and present a systematic review |
 | 11:00-11:10 | Break |
 | 11:10-12:00 | Interactive. PICO/PECO, literature search techniques; derive potential PICO questions for your project |
 | 12:00-1:15 | Break |
@@ -39,7 +39,7 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 | 2:15-2:25 | Break |
 | 2:25-3:15 | Flex. Citation management with Zotero (UCSB Librarian; continued) |
 | 3:15-3:25 | Break |
-| 3:25-5:00 | Project. Identifying a benchmark publication; PICO/PECO question; search terms (with Boolean operators); topic background |
+| 3:25-5:00 | Project. Primary research question; identifying a benchmark publication; PICO/PECO components and synonyms; topic background |
 
 ## Day 2
 | Time  | Activity |
