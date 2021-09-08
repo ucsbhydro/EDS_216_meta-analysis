@@ -44,17 +44,19 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 ## Day 2
 | Time  | Activity |
 |------|----------------|
-| 9:00-10:00 | Lecture. Overview of protocols for systematic reviews |
+| 9:00-10:00 | [Lecture. Overview of protocols for systematic reviews](https://app.box.com/s/m2zn0vblg3it314wjoo76rh97jw390ej) |
 | 10:00-10:10 | Break |
-| 10:10-11:00 | Project. Completing search string (with Boolean operators), testing for comprehensiveness (benchmark publication), assembled literature database, screening articles for inclusion/exclusion |
+| 10:10-11:00 | [Project. Completing search string (with Boolean operators), testing for comprehensiveness (benchmark publication), assembled literature database, screening articles for inclusion/exclusion](https://app.box.com/s/m2zn0vblg3it314wjoo76rh97jw390ej) |
 | 11:00-11:10 | Break |
-| 11:10-12:00 | Project. Completing search string (with Boolean operators), testing for comprehensiveness (benchmark publication), assembled literature database, screening articles for inclusion/exclusion (continued); Flex. Extracting data (e.g., webplot digitizer) |
+| 11:10-12:00 | [Project. Completing search string (with Boolean operators), testing for comprehensiveness (benchmark publication), assembled literature database, screening articles for inclusion/exclusion (continued)](https://app.box.com/s/m2zn0vblg3it314wjoo76rh97jw390ej); Flex. Extracting data (e.g., webplot digitizer) |
 | 12:00-1:15 | Break |
 | 1:15-2:15 | Flex. NCEAS scientists panel |
 | 2:15-2:25 | Break |
-| 2:25-3:15 | Lecture. Biases in literature, PRISMA; Assignment. SysRev Exercise |
+| 2:25-3:15 | [Lecture. Biases in literature, PRISMA](https://app.box.com/s/1fzss6xpx74bm9ekh1trp0qnnbcm5tii); Assignment. SysRev Exercise |
 | 3:15-3:25 | Break |
-| 3:25-5:00 | Assignment. SysRev Exercise |
+| 3:25-5:00 | [Assignment. SysRev Exercise](https://app.box.com/s/k8okok05jp5bubmb96vqj12wbwei0tns) |
+
+
 
 
 ## Day 3
