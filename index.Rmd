@@ -56,23 +56,20 @@ Synthesis tools in environmental science are rapidly evolving and becoming stand
 | 3:15-3:25 | Break |
 | 3:25-5:00 | [Assignment. SysRev Exercise](https://app.box.com/s/k8okok05jp5bubmb96vqj12wbwei0tns) |
 
-
-
-
 ## Day 3
 | Time  | Activity |
 |------|----------------|
 | 9:00-10:00 | Break (late start today) |
 | 10:00-10:10 | Break |
-| 10:10-11:00 | Lecture. Data extraction, critical appraisal, meta-analyses, effect sizes |
+| 10:10-11:00 | [Lecture. Data extraction, critical appraisal, meta-analyses, effect sizes](https://app.box.com/s/z1te50n99888rjzw2sqgpwkbahlfpv3a) |
 | 11:00-11:10 | Break |
-| 11:10-12:00 | Assignment. Standardized mean differences (Cohen’s d, Hedge’s h), weighting effect sizes, uncertainty propagation, forest plots, funnel plots |
+| 11:10-12:00 | [Assignment. Standardized mean differences (Cohen’s d, Hedge’s h), weighting effect sizes, uncertainty propagation, forest plots, funnel plots](https://app.box.com/s/1o7ra4mebxnzlduygbenguw2jlpfvrgc) |
 | 12:00-1:15 | Break |
-| 1:15-2:15 | Lecture. Data coding and extraction, critical appraisal, meta-regressions |
+| 1:15-2:15 |  Project. Data coding and extraction, PRISMA |
 | 2:15-2:25 | Break |
-| 2:25-3:15 | Project. Data coding and extraction, PRISMA; Flex. Prepare final presentations |
+| 2:25-3:15 | Project. Data coding and extraction, PRISMA; [Flex. Prepare final presentations](https://app.box.com/s/r44qluctgkeasjzwuqy9ubw0ugenzurp) |
 | 3:15-3:25 | Break |
-| 3:25-5:00 | Flex. Prepare final presentations |
+| 3:25-5:00 | [Flex. Prepare final presentations](https://app.box.com/s/r44qluctgkeasjzwuqy9ubw0ugenzurp) |
 
 ## Day 4
 | Time  | Activity |
